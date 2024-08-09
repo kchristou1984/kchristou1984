@@ -4,11 +4,17 @@ I'm Konstantinos Christou. I have a B.Sc in Biology and an M.Sc in Molecular Bio
 I have a great interest in programming so nowadays I'm pursuing an M.Sc. in Applied Informatics in the Department of Computer and Electrical Engingeering of University of Thessaly
 
 Some courses that I have already successfully completed are 
+
 • Introduction to Programming (Python) 
+
 • Object Oriented Programming (Python, Java) 
+
 • Database Management(PostgreSQL) 
+
 • Data Structures and Algorithms 
+
 • Digital Design.
+
 
 **Skills**
 
