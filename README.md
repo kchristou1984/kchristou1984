@@ -12,6 +12,9 @@ Some courses that I have already successfully completed are
 
 **Skills**
 
+Molecular Biology | Bioinformatics | Programming
+
+ **Tools**
 <img src="https://www.svgrepo.com/show/376344/python.svg" width="50" height="50"></img>
 <img src="https://www.svgrepo.com/show/184143/java.svg" width="50" height="50"></img>
 <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png" width="50" height="50"></img>
