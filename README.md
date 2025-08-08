@@ -25,7 +25,7 @@ Molecular Biology | Bioinformatics | Programming
  
 <img src="https://www.svgrepo.com/show/376344/python.svg" width="50" height="50"></img>
 <img src="https://www.svgrepo.com/show/184143/java.svg" width="50" height="50"></img>
-<img src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png" width="50" height="50"></img>
+<img src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png](https://icon2.cleanpng.com/20180528/szi/kisspng-amazon-com-postgresql-amazon-relational-database-s-strive-5b0cbb173568b4.0208830815275609832188.jpg" width="50" height="50"></img>
 <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="80" height="50"></img>
 <img src="https://static-00.iconduck.com/assets.00/html-5-icon-224x256-1b5ud2sy.png" width="50" height="50"></img>
 
